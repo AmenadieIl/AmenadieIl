@@ -34,7 +34,7 @@ I turn ideas into reliable, scalable software — and I don't stop at the code.
 
 ## 🏗️ Featured Project
 
-### [Ego Widgets](https://github.com/Amenadiell) — SaaS for Streamers & Content Creators
+### [Ego Widgets](https://egowidgets.com) — SaaS for Streamers & Content Creators
 Built and maintained the full product lifecycle from scratch:
 - React + Next.js frontend with real-time data via FACEIT API
 - Node.js + Express backend with auth & subscription systems
@@ -55,4 +55,4 @@ Built and maintained the full product lifecycle from scratch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aram-danielyan-53622a282/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aram.danielyan.arseni@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amenadiell)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmenadieIl)
